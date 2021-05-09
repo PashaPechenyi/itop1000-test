@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/itop1000-test/static/css/main.ee2de43d.chunk.css",
+    "main.js": "/itop1000-test/static/js/main.bfd3feee.chunk.js",
+    "main.js.map": "/itop1000-test/static/js/main.bfd3feee.chunk.js.map",
+    "runtime-main.js": "/itop1000-test/static/js/runtime-main.a1fa9a77.js",
+    "runtime-main.js.map": "/itop1000-test/static/js/runtime-main.a1fa9a77.js.map",
+    "static/js/2.977d6815.chunk.js": "/itop1000-test/static/js/2.977d6815.chunk.js",
+    "static/js/2.977d6815.chunk.js.map": "/itop1000-test/static/js/2.977d6815.chunk.js.map",
+    "index.html": "/itop1000-test/index.html",
+    "precache-manifest.ee0aa62a911168346dd9eefdab865664.js": "/itop1000-test/precache-manifest.ee0aa62a911168346dd9eefdab865664.js",
+    "service-worker.js": "/itop1000-test/service-worker.js",
+    "static/css/main.ee2de43d.chunk.css.map": "/itop1000-test/static/css/main.ee2de43d.chunk.css.map",
+    "static/js/2.977d6815.chunk.js.LICENSE.txt": "/itop1000-test/static/js/2.977d6815.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a1fa9a77.js",
+    "static/js/2.977d6815.chunk.js",
+    "static/css/main.ee2de43d.chunk.css",
+    "static/js/main.bfd3feee.chunk.js"
+  ]
+}
