@@ -1,0 +1,40 @@
+body {
+  background-color: #f8f8f8;
+}
+
+.stopwatch {
+  height: 100vh;
+
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+  flex-direction: column;
+
+  &__time-block {
+    margin-bottom: 30px;
+
+    font-size: 24px;
+  }
+
+  &__buttons-block {
+    margin: 0 -10px;
+    display: flex;
+    align-items: center;
+  }
+
+  &__button {
+    margin: 0 10px;
+    min-width: 80px;
+    background-color: #eee;
+    border: 1px solid #000;
+    border-radius: 5px;
+    padding: 7px 20px;
+
+    cursor: pointer;
+
+    &:hover {
+      background-color: #e0e0e0;
+    }
+  }
+}
